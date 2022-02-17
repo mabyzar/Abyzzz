@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+Perkenalkan nama saya **M.Abyzar**.\
+
+Saya seorang **Mahasiswa** di Universitas Tadulako🔭.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-abyzar-824121193/)ku ya.
 
 <!--
 **Abyzzz/Abyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
